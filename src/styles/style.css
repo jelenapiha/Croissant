@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+button {
+  background-color: rgb(144, 80, 204);
+  color: white;
+  padding: 20px 15px;
+  border: 1px solid;
+  border-radius: 5px;
+}
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
+img {
+  display: block;
+  margin: auto;
+  padding: 20px;
+}
