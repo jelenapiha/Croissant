@@ -1,8 +1,11 @@
+body {
+  background-color: rgb(216, 193, 165);
+}
 h1 {
   text-align: center;
 }
 button {
-  background-color: rgb(144, 80, 204);
+  background-color: rgb(101, 79, 44);
   color: white;
   padding: 20px 15px;
   border: 1px solid;
